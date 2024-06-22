@@ -1,0 +1,19 @@
+#container{
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease-in;
+
+}
+
+#btn{
+  outline: none;
+  border: none;
+  height: 40px;
+  width: 180px;
+  color: orangered;
+  cursor: pointer;
+}
